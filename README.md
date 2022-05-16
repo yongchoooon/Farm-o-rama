@@ -1,7 +1,7 @@
 # :chart_with_upwards_trend: Visualization_project
 * [Data_Visualization](https://github.com/yongchoooon/TIL/tree/main/ML/Data_Visualiztion) 강의 수강 후, 스스로 가설을 설정 해보고 데이터를 원하는대로 visualization하는 능력을 기르기 위해 진행하는 Project.
 ---
-* <span style = 'background-color: #f1f8ff'>Project File</span> : [viz_project.ipynb](https://github.com/yongchoooon/Visualization_project/blob/main/viz_project.ipynb)
+* <span style = 'background-color: #dcffe4'>Project File</span> : [viz_project.ipynb](https://github.com/yongchoooon/Visualization_project/blob/main/viz_project.ipynb)
 ---
 ### 데이터 출처
 * DACON - 2021 농산물 가격예측 AI 경진대회 (https://dacon.io/competitions/official/235801/data)
