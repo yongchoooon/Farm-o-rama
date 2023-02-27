@@ -3,3 +3,6 @@ data/
 config.py
 
 .ipynb_checkpoints/
+mapbox_token.py
+
+__pycache__/
