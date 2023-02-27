@@ -21,6 +21,3 @@
 
 - **가설 5** : 2016년에 비해 2019년에 열대과일의 수입량 대비 국내 생산량의 비율이 증가했을 것이다.
 
-<iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~yongchoooon/1.embed"></iframe>
-<br>
-<iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~yongchoooon/7.embed"></iframe>
