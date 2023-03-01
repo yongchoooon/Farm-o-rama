@@ -31,7 +31,7 @@
 
 <img src="./example_images/2016 ~ 2020년 9월의 배추 거래량(kg) 변화.png">
 
-<img src="./example_images/2016년도 제주도산 농산물 품목 비율(%) - 상위 10개 품목.png">
+<img src="./example_images/2016년도 제주도산 농산물 품목 비율 상위 10개 품목.png">
 
 <img src="./example_images/2016년 제주도산 감귤의 거래지역별 단가(원 per kg).png">
 
