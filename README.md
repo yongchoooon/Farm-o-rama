@@ -2,9 +2,7 @@
 
 ## Data Visualization Project
 
-```plain
-[Data_Visualization](https://github.com/yongchoooon/TIL/tree/main/ML/Data_Visualiztion) 강의 수강 후, 스스로 가설을 설정 해보고 Data Handling 능력을 기르기 위해 진행하는 Data Visualization Project.
-```
+- [Data_Visualization](https://github.com/yongchoooon/TIL/tree/main/ML/Data_Visualiztion) 강의 수강 후, 스스로 가설을 설정 해보고 Data Handling 능력을 기르기 위해 진행하는 Data Visualization Project.
 
 - 진행일자 : 2022-05-09 ~ 2022-05-16
 - Seminar : 2022-05-16
